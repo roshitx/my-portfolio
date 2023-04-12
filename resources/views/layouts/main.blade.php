@@ -33,15 +33,13 @@
 		} else {
 			document.documentElement.classList.remove('dark')
 		}
-
-		AOS.init();
 	</script>
   	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
 </head>
 
-<body class="relative overflow-x-hidden">
+<body class="relative overflow-x-hidden selection:bg-violet-800 debug-screens"">
 	@yield('content')
 
 	@vite('resources/js/app.js')

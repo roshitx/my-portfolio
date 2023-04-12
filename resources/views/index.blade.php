@@ -77,12 +77,12 @@
 		<div class="container">
 			<div class="flex flex-wrap">
 				<div class="w-full self-center px-4 lg:w-1/2" data-aos="fade-right">
-					<h1 class="text-base font-semibold text-primary md:text-xl">
+					<h1 class="text-base font-semibold text-primary md:text-xl selection:text-white">
 						Hi Everyone! I'm
 					</h1>
-					<h5 id="roshit" data-value="Roshit" class="poppins mt-1 block text-5xl font-bold text-dark lg:text-6xl dark:text-white">Roshit
+					<h5 id="roshit" data-value="Roshit" class="poppins mt-1 block text-5xl font-bold text-dark lg:text-6xl dark:text-white subpixel-antialiased">Roshit
 					</h5>
-					<p class="mb-10 font-medium leading-relaxed text-slate-700 dark:text-slate-200">
+					<p class="mb-10 font-medium leading-relaxed text-slate-700 dark:text-slate-200 subpixel-antialiased">
 						No gf just <i class="fa-solid fa-code" style="color: #c20000;"></i>
 					</p>
 
@@ -141,24 +141,24 @@
 		<div class="container">
 			<div class="flex flex-wrap">
 				<div class="mb-10 w-full px-4 lg:w-1/2">
-					<h4 class="mb-3 text-lg font-bold uppercase text-primary" data-aos="fade-right">
+					<h4 class="mb-3 text-lg font-bold uppercase text-primary selection:text-white" data-aos="fade-right">
 						About Me
 					</h4>
 					<h2 class="mb-5 max-w-md text-3xl font-bold text-dark lg:text-4xl dark:text-white" data-aos="fade-right">
 						A guy who love code
 					</h2>
-					<article data-aos="fade-right">
-						<p class="max-w-xl text-base font-medium text-secondary lg:text-lg">
+					<article data-aos="fade-right" class="selection:text-white">
+						<p class="max-w-xl text-base font-medium text-secondary lg:text-lg subpixel-antialiased lg:indent-5">
 							My name is Muhammad Aulia Rasyid Alzahrowi, but I prefer to go by Roshit.
 						</p>
-						<p class="mt-2 max-w-xl text-base font-medium text-secondary lg:text-lg">
+						<p class="mt-2 max-w-xl text-base font-medium text-secondary lg:text-lg subpixel-antialiased lg:indent-5">
 							I'm currently studying Software Engineering at SMK N 1 Bantul in Yogyakarta. I love to learn
 							new
 							things, which led me to the world of programming.
 							I enjoy studying programming languages and
 							constantly push myself to improve my skills.
 						</p>
-						<p class="mt-2 max-w-xl text-base font-medium text-secondary lg:text-lg">
+						<p class="mt-2 max-w-xl text-base font-medium text-secondary lg:text-lg subpixel-antialiased lg:indent-5">
 							I have advanced proficiency in HTML, CSS, and Bootstrap, but my current focus is on learning
 							the backend stack. Although it's been challenging, I'm
 							enjoying the process of acquiring the skills necessary to build <span
@@ -173,7 +173,7 @@
 					<h3 class="mb-4 text-2xl font-semibold text-dark lg:pt-10 lg:text-3xl dark:text-white" data-aos="fade-up">
 						Let's be friends!
 					</h3>
-					<p class="mb-6 max-w-xl text-base font-medium text-secondary lg:text-lg" data-aos="fade-up">
+					<p class="mb-6 max-w-xl text-base font-medium text-secondary lg:text-lg selection:text-white" data-aos="fade-up">
 						I would love to be friends with anyone, so click the button below and let's connect!
 					</p>
 					<div class="flex items-center justify-center lg:justify-start" data-aos="fade-up">
@@ -244,9 +244,9 @@
 		<div class="container">
 			<div class="w-full px-4">
 				<div class="mx-auto mb-16 max-w-xl text-center" data-aos="fade-up">
-					<h4 class="mb-2 text-lg font-semibold uppercase text-primary">Projects</h4>
+					<h4 class="mb-2 text-lg font-semibold uppercase text-primary selection:text-white">Projects</h4>
 					<h2 class="mb-4 text-3xl font-bold text-dark sm:text-4xl lg:text-5xl dark:text-white">My Projects</h2>
-					<p class="text-base font-medium text-secondary md:text-lg">Example of my project all the time, for much more see
+					<p class="text-base font-medium text-secondary md:text-lg selection:text-white">Example of my project all the time, for much more see
 						in my
 						<span class="block font-bold text-dark dark:text-white">
 							<a href="https://github.com/roshitx/" class="group transition duration-300 ease-in-out" target="_blank">
@@ -311,9 +311,9 @@
 		<div class="container flex flex-wrap justify-center">
 			<div class="w-full px-4" data-aos="fade-up">
 				<div class="mx-auto mb-16 text-center">
-					<h4 class="mb-2 text-lg font-semibold uppercase text-primary">Achievements</h4>
+					<h4 class="mb-2 text-lg font-semibold uppercase text-primary selection:text-white">Achievements</h4>
 					<h2 class="mb-4 text-3xl font-bold text-white sm:text-4xl lg:text-5xl dark:text-dark">My Certificates</h2>
-					<p class="text-base font-medium text-secondary md:text-lg">Some of the certificates I've gotten from
+					<p class="text-base font-medium text-secondary md:text-lg selection:text-white">Some of the certificates I've gotten from
 						online courses.
 					</p>
 				</div>
@@ -409,9 +409,9 @@
 		<div class="container">
 			<div class="w-full px-4" data-aos="fade-up">
 				<div class="mx-auto mb-16 max-w-xl text-center">
-					<h4 class="mb-2 text-lg font-semibold uppercase text-primary">Contact</h4>
+					<h4 class="mb-2 text-lg font-semibold uppercase text-primary selection:text-white">Contact</h4>
 					<h2 class="mb-4 text-3xl font-bold text-dark sm:text-4xl lg:text-5xl dark:text-white">Reach Me</h2>
-					<p class="text-base font-medium text-secondary md:text-lg">I will love your messages, send me a
+					<p class="text-base font-medium text-secondary md:text-lg selection:text-white">I will love your messages, send me a
 						message!
 					</p>
 
@@ -462,21 +462,21 @@
 					@endif
 
 					<div class="mb-8 w-full px-4">
-						<label class="text-base font-bold text-primary">Name</label>
+						<label class="text-base font-bold text-primary selection:text-white">Name</label>
 						<input type="text" id="interactable" name="name"
-							class="w-full rounded-md bg-slate-200 p-3 text-dark focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+							class="w-full rounded-md bg-slate-200 p-3 text-dark focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary caret-primary"
 							placeholder="Your Name" required data-type="fill">
 					</div>
 					<div class="mb-8 w-full px-4">
-						<label class="text-base font-bold text-primary">Email</label>
+						<label class="text-base font-bold text-primary selection:text-white">Email</label>
 						<input type="email" id="interactable" name="email"
-							class="w-full rounded-md bg-slate-200 p-3 text-dark focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+							class="w-full rounded-md bg-slate-200 p-3 text-dark focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary caret-primary"
 							placeholder="Your Email" required data-type="fill">
 					</div>
 					<div class="mb-8 w-full px-4">
-						<label class="text-base font-bold text-primary">Message</label>
+						<label class="text-base font-bold text-primary selection:text-white">Message</label>
 						<textarea type="text" id="interactable" name="message"
-						 class="w-full rounded-md bg-slate-200 p-3 text-dark focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+						 class="w-full rounded-md bg-slate-200 p-3 text-dark focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary caret-primary"
 						 placeholder="Type a message here" required data-type="fill"></textarea>
 					</div>
 					<div class="w-full px-4">
@@ -494,7 +494,7 @@
 	<footer class="bg-dark py-3">
 		<div class="container">
 			<div class="w-full">
-				<p class="text-center text-sm font-medium text-slate-400">Copyright &copy; 2023
+				<p class="text-center text-sm font-medium text-slate-400 selection:text-white">Copyright &copy; 2023
 					<a class='group font-bold text-primary transition-all duration-300 ease-in-out' href='https://linktr.ee/roshit'>
 						<span
 							class='bg-gradient-to-r from-primary to-primary bg-[length:0%_2px] bg-left-bottom bg-no-repeat transition-all duration-500 ease-out group-hover:bg-[length:100%_2px]'>
